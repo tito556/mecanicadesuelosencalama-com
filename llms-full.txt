@@ -1,0 +1,45 @@
+# Mecanicadesuelos — Calama
+
+> Geotechnical engineering services in Calama, Chile.
+
+## Services
+- [Aislacion Sismica](https://mecanicadesuelosencalama.com/aislacion-sismica/)
+- [Anclajes](https://mecanicadesuelosencalama.com/anclajes/)
+- [Calicatas Exploratorias](https://mecanicadesuelosencalama.com/calicatas-exploratorias/)
+- [Cbr Vial](https://mecanicadesuelosencalama.com/cbr-vial/)
+- [Cimentaciones](https://mecanicadesuelosencalama.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://mecanicadesuelosencalama.com/cimentaciones-superficiales/)
+- [Densidad Cono Arena](https://mecanicadesuelosencalama.com/densidad-cono-arena/)
+- [Ensayo Triaxial](https://mecanicadesuelosencalama.com/ensayo-triaxial/)
+- [Estabilidad Taludes](https://mecanicadesuelosencalama.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://mecanicadesuelosencalama.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://mecanicadesuelosencalama.com/excavaciones-subterraneo/)
+- [Exploracion](https://mecanicadesuelosencalama.com/exploracion/)
+- [Geofisica](https://mecanicadesuelosencalama.com/geofisica/)
+- [Geotecnia Vial](https://mecanicadesuelosencalama.com/geotecnia-vial/)
+- [Granulometria](https://mecanicadesuelosencalama.com/granulometria/)
+- [Grouting](https://mecanicadesuelosencalama.com/grouting/)
+- [Laboratorio In Situ](https://mecanicadesuelosencalama.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://mecanicadesuelosencalama.com/laboratorio-lab/)
+- [Licuefaccion](https://mecanicadesuelosencalama.com/licuefaccion/)
+- [Limites Atterberg](https://mecanicadesuelosencalama.com/limites-atterberg/)
+- [Masw Vs30](https://mecanicadesuelosencalama.com/masw-vs30/)
+- [Mejoramiento](https://mecanicadesuelosencalama.com/mejoramiento/)
+- [Monitoreo Excavaciones](https://mecanicadesuelosencalama.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://mecanicadesuelosencalama.com/muros-contencion/)
+- [Pavimento Flexible](https://mecanicadesuelosencalama.com/pavimento-flexible/)
+- [Pavimento Rigido](https://mecanicadesuelosencalama.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://mecanicadesuelosencalama.com/permeabilidad-campo/)
+- [Placa De Carga](https://mecanicadesuelosencalama.com/placa-de-carga/)
+- [Resistividad Electrica Sev](https://mecanicadesuelosencalama.com/resistividad-electrica-sev/)
+- [Sismica](https://mecanicadesuelosencalama.com/sismica/)
+- [Sondaje Spt](https://mecanicadesuelosencalama.com/sondaje-spt/)
+- [Taludes](https://mecanicadesuelosencalama.com/taludes/)
+- [Tuneles Suelo Blando](https://mecanicadesuelosencalama.com/tuneles-suelo-blando/)
+
+## Contact
+- Website: https://mecanicadesuelosencalama.com/
+
+## About
+This site provides geotechnical engineering services in Calama, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).

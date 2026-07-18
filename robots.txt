@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# AI crawlers welcome here
+# AI training bots — allow access (we WANT visibility in AI tools)
 User-agent: GPTBot
 Allow: /
 
@@ -29,7 +29,7 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-# Bloquear crawlers de baja calidad
+# Block low-quality crawlers
 User-agent: SemrushBot
 Disallow: /
 
